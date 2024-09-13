@@ -44,7 +44,7 @@ const About = () => {
         
       </div>
       <div className="center">
-      <a href="https://cv-adoum.ovh/">
+      <a href="https://cv-adoum.netlify.app">
       <button className="btn-cv">
         <span>Accedez Au CV <i class="fa-solid fa-download"></i></span>
       </button></a>
